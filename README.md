@@ -5,8 +5,8 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artixowo&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&card_width=400" alt="GitHub Stats" style="width: 400px; height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artixowo&layout=compact&theme=tokyonight&langs_count=8&hide_title=true&hide_border=true&card_width=400&cache_seconds=1800" alt="Top Languages" style="width: 400px; height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artixowo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats" style="width: 400px; height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artixowo&layout=compact&theme=tokyonight&hide_border=true&card_width=400&cache_seconds=1800" alt="Top Languages" style="width: 400px; height: 195px;" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
