@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artixowo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats" style="width: 400px; height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artixowo&layout=compact&theme=tokyonight&hide_border=true&card_width=400&cache_seconds=1800" alt="Top Languages" style="width: 400px; height: 195px;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Artixowo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=400" />
+  <img src="https://streak-stats.demolab.com?user=Artixowo&theme=radical&date_format=j%20M%5B%20Y%5D" />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -41,7 +41,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Artixowo&theme=radical&date_format=j%20M%5B%20Y%5D)
+
   
 </div>
 
